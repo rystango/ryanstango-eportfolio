@@ -1,0 +1,54 @@
+a {
+    font-family: fantasy;
+    font-size: 18px;
+    color: gainsboro;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    border: 2px solid gainsboro;
+    background-color: darkorchid;
+    
+} 
+
+h1{
+    font-family: fantasy;
+    font-size: 30px;
+    color: darkblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 4px;
+    
+}
+
+h3{
+    font-family: fantasy;
+    font-size: 20px;
+    color: darkblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 4px;
+    
+}
+p {
+    font-family: fantasy;
+    font-size: 12px;
+    color: darkblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 4px;
+    
+}
+
+img {
+    margin-left: 14px;
+    
+}
+
+iframe {
+    margin-left: 14px;
+}
+h1 {
+    background-color: lavender;
+}
